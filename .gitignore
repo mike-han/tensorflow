@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+**/logs
+nlp/bert/imdb_bert/
+nlp/ner/ner_bert/
