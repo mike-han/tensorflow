@@ -130,3 +130,5 @@ dmypy.json
 **/logs
 nlp/bert/imdb_bert/
 nlp/ner/ner_bert/
+nlp/ner/bert_base_uncased/
+nlp/ner1/ner_bert
